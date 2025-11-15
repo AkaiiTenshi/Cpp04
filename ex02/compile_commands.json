@@ -1,0 +1,128 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c++98",
+      "-c",
+      "-I",
+      "includes/",
+      "-o",
+      "objs//main.o",
+      "./srcs/main.cpp"
+    ],
+    "directory": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02",
+    "file": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02/srcs/main.cpp",
+    "output": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02/objs/main.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c++98",
+      "-c",
+      "-I",
+      "includes/",
+      "-o",
+      "objs//Animal.o",
+      "./srcs/Animal.cpp"
+    ],
+    "directory": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02",
+    "file": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02/srcs/Animal.cpp",
+    "output": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02/objs/Animal.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c++98",
+      "-c",
+      "-I",
+      "includes/",
+      "-o",
+      "objs//Dog.o",
+      "./srcs/Dog.cpp"
+    ],
+    "directory": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02",
+    "file": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02/srcs/Dog.cpp",
+    "output": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02/objs/Dog.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c++98",
+      "-c",
+      "-I",
+      "includes/",
+      "-o",
+      "objs//Cat.o",
+      "./srcs/Cat.cpp"
+    ],
+    "directory": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02",
+    "file": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02/srcs/Cat.cpp",
+    "output": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02/objs/Cat.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c++98",
+      "-c",
+      "-I",
+      "includes/",
+      "-o",
+      "objs//WrongAnimal.o",
+      "./srcs/WrongAnimal.cpp"
+    ],
+    "directory": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02",
+    "file": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02/srcs/WrongAnimal.cpp",
+    "output": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02/objs/WrongAnimal.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c++98",
+      "-c",
+      "-I",
+      "includes/",
+      "-o",
+      "objs//WrongCat.o",
+      "./srcs/WrongCat.cpp"
+    ],
+    "directory": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02",
+    "file": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02/srcs/WrongCat.cpp",
+    "output": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02/objs/WrongCat.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-std=c++98",
+      "-c",
+      "-I",
+      "includes/",
+      "-o",
+      "objs//Brain.o",
+      "./srcs/Brain.cpp"
+    ],
+    "directory": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02",
+    "file": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02/srcs/Brain.cpp",
+    "output": "/home/salsoysa/42-Code-Odyssey/cpp04/ex02/objs/Brain.o"
+  }
+]
