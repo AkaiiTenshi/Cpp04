@@ -1,7 +1,7 @@
 NAME = interface 
 
 SRCS_PATH = ./srcs/
-SRCS = main.cpp 
+SRCS = main.cpp AMateria.cpp
 
 OBJS_PATH = ./objs/
 OBJS = ${patsubst %.cpp, ${OBJS_PATH}/%.o, ${SRCS}}
