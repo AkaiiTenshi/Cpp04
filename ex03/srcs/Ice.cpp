@@ -1,4 +1,5 @@
 #include "Ice.hpp"
+#include "ICharacter.hpp"
 #include "AMateria.hpp"
 #include <iostream>
 

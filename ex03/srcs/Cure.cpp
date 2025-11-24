@@ -1,5 +1,6 @@
 #include "Cure.hpp"
 #include "AMateria.hpp"
+#include "ICharacter.hpp"
 #include <iostream>
 
 Cure::Cure() : AMateria("ice") {

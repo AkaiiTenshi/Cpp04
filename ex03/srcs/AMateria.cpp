@@ -16,5 +16,9 @@ AMateria::~AMateria() {
 }
 
 void AMateria::use(ICharacter& target){
-	std::cout << "Basic Materia can't do nothing to " << target.getName() <<std::endl;
+	(void)target;
+}
+
+std::string const & AMateria::getType() const{
+	return _type;
 }

@@ -15,7 +15,7 @@ class AMateria {
 		AMateria(const std::string type); // Default constructor
 		AMateria(const AMateria &other); // Copy constructor
 		AMateria &operator=(const AMateria &other); // Copy assignment
-		~AMateria(); // Destructor
+		virtual ~AMateria(); // Destructor
 
 		std::string const & getType() const; // Returns the Materia Type
 		

@@ -10,10 +10,10 @@ class Character : public ICharacter
 		int _inventoryI;
 
 	public:
-		Character(const std::string name);
+		Character(const std::string &name);
 		Character(const Character &other);
 		Character &operator=(const Character &other);
-		virtual ~Character() {}
+		virtual ~Character();
 
 		virtual std::string const & getName() const;
 
